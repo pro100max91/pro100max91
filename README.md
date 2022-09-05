@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pro100max91
+- 👀 I’m interested in learning SQL and changing the type of activity. at the moment I have experience in analyzing data in Excel/Access using uploads from SAP.
+- 🌱 I’m currently learning SQL on Stepik.
+- 💞️ I’m looking to collaborate on a company that needs a data analyst.
+- 📫 How to reach me: E-mail - pro100max91@gmail.com
